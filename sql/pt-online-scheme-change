@@ -1,0 +1,1 @@
+pt-online-schema-change --user=root --host=XXXX --port=3306 --password=xxx --execute --alter "drop column XX" D=XX,t=XX
