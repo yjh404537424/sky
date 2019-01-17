@@ -1,5 +1,6 @@
 #!/bin/sh
 log='/var/log/xxxxxxxxxxx'
+#test
 
 awk '
 BEGIN{
